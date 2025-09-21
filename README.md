@@ -63,7 +63,7 @@ NODE_ENV=development
 BASE_URL=http://localhost:5000
 
 # MongoDB
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/school-payment?retryWrites=true&w=majority
+MONGODB_URI=mongodbURL
 
 # JWT
 JWT_SECRET=your-super-secret-jwt-key-here-make-it-long-and-secure
